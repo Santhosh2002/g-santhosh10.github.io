@@ -65,3 +65,19 @@ h1{
   
 
 }
+.instagram{
+  display: block;
+  width: 25px;
+  margin: 40px auto 0;
+  cursor: pointer;
+  
+
+}
+.hackerrank{
+  display: block;
+  width: 25px;
+  margin: 40px auto 0;
+  cursor: pointer;
+  
+
+}
