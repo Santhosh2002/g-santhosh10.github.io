@@ -13,12 +13,20 @@
        overflow: hidden;
  }
  .information{
+    width: 600px;
+    height: 50vh;
+    text-align: center;
+    text-transform: full-width;
+    background-color: rgb(209, 208, 208);
+    background-size: auto;
+    border: 3px solid #000000;
     color: #070501;
     position: relative;
-    top: 5%;
-    left: 5%;
-    transform: translateY(-30%);
+    top: 30%;
+    left: 6%;
+    transform: translateY(-50%);
     z-index: 3;
+   
 }
 h2{
     color: rgb(255, 208, 0);
