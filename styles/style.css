@@ -15,7 +15,7 @@
 }
 .logo{
 
-  width: 100px;
+  width: 75px;
   cursor: pointer;
 }
 .navbar{
@@ -38,7 +38,7 @@ button{
 .contant{
   color: #ffffff;
   position: absolute;
-  top: 50%;
+  top: 40%;
   left: 8%;
   transform: translateY(-50%);
   z-index: 2;
