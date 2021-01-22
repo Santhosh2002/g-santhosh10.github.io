@@ -13,7 +13,7 @@
        overflow: hidden;
  }
  .information{
-    color: #ffffff;
+    color: #070501;
     position: relative;
     top: 5%;
     left: 5%;
@@ -21,7 +21,7 @@
     z-index: 3;
 }
 h2{
-    color: rgb(255, 20, 20);
+    color: rgb(255, 208, 0);
     font-size: 30px;
     margin: 5px 0 20px;
     line-height: 20px;
@@ -50,6 +50,14 @@ h2{
   
   }
   .twitter{
+    display: block;
+    width: 25px;
+    margin: 40px auto 0;
+    cursor: pointer;
+    
+  
+  }
+  .github{
     display: block;
     width: 25px;
     margin: 40px auto 0;
