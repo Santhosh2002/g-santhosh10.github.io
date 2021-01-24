@@ -5,9 +5,8 @@
 }
 .hero{
       width: 100%;
-      min-width: 1500px;
+      min-width: 1000px;
       height: 200vh;
-      max-height: fit-content;
       background-image:url(../images/back.jpg) ;
       background-size:cover;
       background-position:center;
