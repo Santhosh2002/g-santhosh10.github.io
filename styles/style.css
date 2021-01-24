@@ -51,7 +51,7 @@ h1{
 }
 .side-bar{
   width: 50px;
-  height: 100vh;
+  height: 200vh;
   background: linear-gradient(#00545d, #000729);
   position: absolute;
   right: 0;

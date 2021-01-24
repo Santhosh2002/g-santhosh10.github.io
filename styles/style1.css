@@ -23,7 +23,7 @@
     border: 3px solid #000000;
     color: #070501;
     position: relative;
-    top: 30%;
+    top: 15%;
     left: 6%;
     transform: translateY(-50%);
     z-index: 3;
@@ -37,7 +37,7 @@ h2{
   }
   .side-bar{
     width: 60px;
-    height: 100vh;
+    height: 200vh;
     background: linear-gradient(#e6fa72, #292800);
     position: absolute;
     right: 0;
