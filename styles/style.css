@@ -3,9 +3,13 @@
    padding: 0;
    font-family: sans-serif;
 }
+
+@media screen {
+  .hero{
+  min-width: 1000px;}
+}
 .hero{
       width: 100%;
-      min-width: 1000px;
       height: 200vh;
       background-image:url(../images/back.jpg) ;
       background-size:cover;
