@@ -33,6 +33,7 @@ button{
   background: transparent;
   border: 1px solid #ffffff;
   border-radius: 20px;
+  position: static;
   outline: none;
   cursor: pointer;
 }
