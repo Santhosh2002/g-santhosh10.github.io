@@ -21,7 +21,7 @@
 }
 .navbar{
   width: 85%;
-  height: 15%;
+  height: 10%;
   margin: auto;
   display: flex;
   align-items: center;
@@ -39,7 +39,7 @@ button{
 .contant{
   color: #ffffff;
   position: absolute;
-  top: 30%;
+  top: 25%;
   left: 8%;
   transform: translateY(-50%);
   z-index: 2;
