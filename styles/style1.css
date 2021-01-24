@@ -19,9 +19,10 @@
     height: 50vh;
     text-align: center;
     text-transform:  full-width ;
-    background-color: rgb(209, 208, 208);
+    background-image:url(../images/back1.jpg);
     background-size: auto;
     border: 3px solid #000000;
+    border-radius: 20px;
     color: #070501;
     position: relative;
     top: 15%;
