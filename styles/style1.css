@@ -13,11 +13,12 @@
        position: relative;
        overflow: hidden;
  }
+
  .information{
     width: 600px;
     height: 50vh;
     text-align: center;
-    text-transform: full-width;
+    text-transform:  full-width ;
     background-color: rgb(209, 208, 208);
     background-size: auto;
     border: 3px solid #000000;
@@ -32,6 +33,7 @@
 h2{
     color: rgb(255, 208, 0);
     font-size: 30px;
+    left: 5%;
     margin: 10px 0 20px;
     line-height: 20px;
   }
