@@ -6,6 +6,7 @@
  
 @media screen {
   .hero{
+    max-height: max-content;
   min-width: 1000px;}
 }
  .info{
