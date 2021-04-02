@@ -15,7 +15,7 @@
  }
  .information{
     width: 60%;
-    height: 50vh;
+    height: 70vh;
     text-align: center;
     text-transform:  full-width ;
     background-image:url(../images/back1.jpg);
@@ -24,7 +24,7 @@
     border-radius: 20px;
     color: #070501;
     position: relative;
-    top: 15%;
+    top: 20%;
     left: 6%;
     transform: translateY(-50%);
     z-index: 3;
